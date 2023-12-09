@@ -18,7 +18,7 @@
 
 
  
-<h1>🖥️Technologies that I know</h1>
+<h1>🖥️Technologies that I know :</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,materialui&perline=6" />
@@ -26,7 +26,7 @@
 </p>
 <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,github&perline=6" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,github,figma&perline=6" />
   </a>
 </p>
 
@@ -47,7 +47,7 @@
 
 </div>
 
-<h1>Connect with me</h1>
+<h1>💁‍♂️ Connect with me</h1>
 
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
@@ -67,7 +67,7 @@
 <a href="https://linkedin.com/in/md-shawon-reza-6840b8224" target="blank">
  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </a>
-<a href="" target="blank">
+<a href="https://mail.google.com/mail/u/0/#inbox" target="blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
 </a>
 </div>
