@@ -85,7 +85,7 @@
 <!-- <h1>🖥️Technologies that I know :</h1> -->
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,mongodb,firebase,github,materialui&perline=6" />
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,mongodb,firebase,materialui&perline=9" />
   </a>
 </p>
 
@@ -108,7 +108,7 @@
 <!-- <h1>🖥️Technologies that I know :</h1> -->
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,mongodb,firebase,github,materialui&perline=6" />
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,mongodb,firebase,materialui&perline=9" />
   </a>
 </p>
 
@@ -132,7 +132,7 @@
 <!-- <h1>🖥️Technologies that I know :</h1> -->
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,mongodb,firebase,github,materialui&perline=6" />
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,mongodb,firebase,materialui&perline=9" />
   </a>
 </p>
 
