@@ -17,8 +17,8 @@
 </div>
 
 
- 
-<h1>🖥️Technologies that I know :</h1>
+ # 🖥️Technologies that I know :
+<!-- <h1>🖥️Technologies that I know :</h1> -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,materialui&perline=6" />
@@ -31,10 +31,8 @@
 </p>
 
 
-<div align="center">
-<h1 align="left">🔥   My Stats :</h1>
-
-
+# 🔥   My Stats :
+<!-- <h1 align="left">🔥   My Stats :</h1> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mdshawonreza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
@@ -43,11 +41,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshawonreza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
-
-</div>
-
-<h1>💁‍♂️ Connect with me </h1>
+# 💁‍♂️ Connect with me
+<!-- <h1>💁‍♂️ Connect with me </h1> -->
 
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
@@ -72,8 +67,74 @@
 </a>
 </div>
 
+# 🖥️ Projects:
 
 
+## Uni Hostel Hub 
+
+### Live Link :
+- https://uni-hostel-hub.web.app
+
+### Project features  :
+- At first i create a layout route in this Uni Hostel Hub project and there was a fixed nav bar with 5 route which were home, meals, upcoming meals, Join us , notification and user profile user where a user can go dashboard route by clicking .
+- In this project ,home page have a tabs menu and tabs panel there were many meal cards ,a awesome banner, purchase memberships card ,and share plan.
+- meals card has a specific details button and when it was clicked by a registered user than it show details in this meal and a review section.
+- And upcoming page have some upcoming meals card which added by admin and this meal will add meals card by clients like.
+- if a user click navbar profile picture he or she going to dashboard and he or she can see his own profile and his others information.
+ ### 🖥️Technologies  :
+<!-- <h1>🖥️Technologies that I know :</h1> -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,mongodb,firebase,github,materialui&perline=6" />
+  </a>
+</p>
+
+
+
+
+## Career builder
+
+### Live Link :
+- https://career-builder-6a1fb.web.app
+
+### Project features :
+- At first i create a layout route in this Career builder project and there was a fixed nav bar with 7 route which were home, login, add a job , my jobs ,applied jobs ,all jobs ,blogs
+- In this project ,home page have a tabs menu and tabs panel there were many jobs cards ,a awesome banner ,and help section.
+- jobs card has a specific details button and when it was clicked by a registered user than it show details in this job.
+- And add a job page have some input fields to input data for upload job and every single own published job has a updated button and a delete button.
+- if published person click this update button then he or she can update job information.
+
+ ### 🖥️Technologies  :
+<!-- <h1>🖥️Technologies that I know :</h1> -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,mongodb,firebase,github,materialui&perline=6" />
+  </a>
+</p>
+
+
+
+
+
+
+## Automotive project
+
+### Live Link :
+- https://automotive-69b91.web.app
+### Project features :
+- At first i create a layout route in this automotive project and there was a fixed nav bar with 5 route which were home, login, register, add product and my cart.
+- In this project ,home page have 6 services cards ,a awesome banner ,and share your plan section.
+- brands card has a specific brand name and when it was clicked by a registered user than it show brand products.
+- And add product page have some input fields to input data for upload products and every single product has a updated button and a details button.
+- if admin click this update button then he or she can update any products information.
+
+ ### 🖥️Technologies  :
+<!-- <h1>🖥️Technologies that I know :</h1> -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,mongodb,firebase,github,materialui&perline=6" />
+  </a>
+</p>
 
 
 
