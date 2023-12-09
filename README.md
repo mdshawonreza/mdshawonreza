@@ -11,8 +11,10 @@
 <h2 align="center">I am MD Shawon Reza. I am 24 years old Self-taught <br> MERN-Stack developer from Bangladesh.🚀</h2>
 <ul>
 <li> <h4>🌱 I’m currently learning Next js</h4> </li>
-<li> <h4> 💬 Ask me about MERN-Stack developer</h4></li>
-<li>  <h4>📫 How to reach me: ... </h4></li>
+<li> <h4> 💬 Ask me about anything related to JavaScript,React , Tailwind CSS Node.js ,Express,MongoDBS</h4></li>
+<li>  <h4>📫 Reach me at :<a href="https://mail.google.com/mail/u/0/#inbox" target="blank">
+ fahadshawon241@gmail.com
+</a> </h4></li>
 </ul>
 </div>
 
