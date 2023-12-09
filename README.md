@@ -83,7 +83,7 @@
 - if a user click navbar profile picture he or she going to dashboard and he or she can see his own profile and his others information.
  ### 🖥️Technologies  :
 <!-- <h1>🖥️Technologies that I know :</h1> -->
-<p align="center">
+<p >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,mongodb,firebase,github,materialui&perline=6" />
   </a>
@@ -106,7 +106,7 @@
 
  ### 🖥️Technologies  :
 <!-- <h1>🖥️Technologies that I know :</h1> -->
-<p align="center">
+<p >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,mongodb,firebase,github,materialui&perline=6" />
   </a>
@@ -130,7 +130,7 @@
 
  ### 🖥️Technologies  :
 <!-- <h1>🖥️Technologies that I know :</h1> -->
-<p align="center">
+<p >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,mongodb,firebase,github,materialui&perline=6" />
   </a>
